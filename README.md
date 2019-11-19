@@ -1,0 +1,2 @@
+# NewReleaseNote
+Release Note Standardization
